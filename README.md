@@ -11,7 +11,7 @@ Sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/wendersonomelo/)
-* [Mendium](https://medium.com/@ds.wendersonmelo)
+* [Medium](https://medium.com/@ds.wendersonmelo)
 
 
 
