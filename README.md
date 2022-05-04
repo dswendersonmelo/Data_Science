@@ -18,6 +18,7 @@ Sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de
 
 ## Projetos:
 
+* Análise de Dados do Airbnb - Lisboa --- LINK: https://bityli.com/MwFlh
 
 ---
 
