@@ -12,14 +12,14 @@ Sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/wendersonomelo/)
-* [Medium](https://medium.com/@ds.wendersonmelo)
 
 
 
 ## Projetos:
 
-* Análise de Dados do Airbnb - Lisboa: https://bityli.com/MwFlh
 * Panorama do Covid-19 no Brasil: https://bityli.com/VqKYiC
+* Análise de Dados do Airbnb - Lisboa: https://bityli.com/MwFlh
+
 ---
 
 
