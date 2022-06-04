@@ -17,8 +17,10 @@ Sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de
 
 ## Projetos:
 
-* Panorama do Covid-19 no Brasil: https://bityli.com/VqKYiC
-* Análise de Dados do Airbnb - Lisboa: https://bityli.com/MwFlh
+* Análise de Dados do Airbnb - Lisboa: 
+* Panorama do Covid-19 no Brasil - [EM ANDAMENTO]
+* Detectando Fraudes em Cartões de Crédito [EM ANDAMENTO]
+
 
 ---
 
