@@ -19,7 +19,7 @@ Sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de
 
 * Análise de Dados do Airbnb - Lisboa : https://bityli.com/giULr 
 * Panorama do Covid-19 no Brasil - [EM ANDAMENTO]
-* Detectando Fraudes em Cartões de Crédito - [EM ANDAMENTO]
+* Detecção de Fraude em Cartões de Crédito - [EM ANDAMENTO]
 
 
 ---
