@@ -18,8 +18,7 @@ Sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de
 ## Projetos:
 
 * Análise de Dados do Airbnb - Lisboa : https://bityli.com/giULr 
-* Panorama do Covid-19 no Brasil - [EM ANDAMENTO]
-* Detecção de Fraude em Cartões de Crédito - [EM ANDAMENTO]
+* [Detecção de Fraude em Cartões de Crédito](https://github.com/dswendersonmelo/Data_Science/blob/main/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 
 
 ---
