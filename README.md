@@ -8,7 +8,7 @@
 # Wenderson Oliveira Melo
 Sou estudante de Bacharelado em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - Campus Imperatriz. Encontrei na Ciência de Dados a oportunidade de aliar conhecimentos relacionados à Tecnologia e Matemática em serviço das mais diversas atividades humanas. Esse repositório é destinado as análises e projetos que desenvolvo como cientista de dados.
 
-**Background in:** Python.
+**Background in:** Python, SQL e Estatística
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/wendersonomelo/)
